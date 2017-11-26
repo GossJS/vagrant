@@ -1,6 +1,8 @@
-# NodeJS 8  Vangrant Box
+## Работа с NodeJS под Windows с помощью Vagrant.
 
-Clone the repo and run the following (ensure you have VirtualBox and Vagrant installed):
+Пререквизиты: установите VirtualBox и Vagrant с официальных сайтов.
+
+Склонируйте этот репозиторий в некоторую папку x и, перейдя в неё, выполните:
 ```
 vagrant up
 ```
